@@ -1,0 +1,15 @@
+Media Query resolution
+
+Extra Large Screen 1200px
+
+Small Extra Large Screen 992px Laptop
+
+Tablet Screen 768px
+
+Mobile Screen large 576px
+
+Small Screen Mobile 575px
+
+
+
+csstricks.com
